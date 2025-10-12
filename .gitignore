@@ -1,0 +1,45 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Generated files
+generated/
+
+# Coverage reports
+*.exec
+coverage-reports/
+
+# Test results
+test-output/
+surefire-reports/
+/heap-dumps/heapdump.hprof
