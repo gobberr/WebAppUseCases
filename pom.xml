@@ -7,7 +7,7 @@
     <version>1.0.0</version>
     <properties>
         <java.version>21</java.version>
-        <spring.boot.version>3.5.6</spring.boot.version>
+        <spring.boot.version>3.5.16</spring.boot.version>
     </properties>
     <dependencies>
         <dependency>
@@ -38,7 +38,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
-            <version>3.5.6</version>
+            <version>3.5.16</version>
             <optional>true</optional>
         </dependency>
         <dependency>
